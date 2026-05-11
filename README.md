@@ -43,7 +43,7 @@ Dependencies are listed in:
 requirements.txt
 🚀 Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/maze-game.git
+git clone https://github.com/zkaeshjm/maze-game.git
 cd maze-game
 2️⃣ Create Virtual Environment
 Windows (PowerShell)

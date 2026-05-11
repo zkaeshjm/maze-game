@@ -278,8 +278,8 @@ Muhammad Saad Khalid
 
 Computer Science Student • Python Developer • OpenGL Enthusiast
 
-GitHub: your-github-link
-LinkedIn: your-linkedin-link
+GitHub: https://github.com/zkaeshjm
+LinkedIn: https://www.linkedin.com/in/muhammad-saad-khalid-1786a2252/
 ⭐ Support
 
 If you like this project:
